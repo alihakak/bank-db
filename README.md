@@ -1,5 +1,7 @@
 ## A Banking Database Schema 
-
+ 
+ The word File in the Read me demonstrate visuals, here is the approach and instructions.
+ 
 ### Instructions to set up the data base:
  - Create a Database and call it ChannelAssist_BankDB
  - Run the SQL Query it will initial add data as well.
