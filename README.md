@@ -1,4 +1,4 @@
-## A Standard Banking DB Schema 
+## A Banking Database Schema 
 
 ### Instructions to set up the data base:
  - Create a Database and call it ChannelAssist_BankDB
