@@ -16,7 +16,7 @@ To search an account by FirstName/ last name or FirsName LastName run `GetAccoun
  - in Our Data base we have two recoreds A and B A has $10 and B has $20, so Bank has -$30 it goes:  -30 + 10 + 20 = 0   This is an even balance; 
  - Banks close their account at the end of each day if this is zero. I’ve initialized with some sample data.  
 
-#### Transfering Funds 
+### Transfering Funds 
 
  - Stored procedure to transfer funds between to accounts: `InsTransferBillingAmmount`
  - Example: `Exec InsTransferBillingAmmount 3,8, 2,2, 5.25, 2,'Transfer From B to A $5.25'`
